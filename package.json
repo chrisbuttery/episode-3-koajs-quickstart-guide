@@ -1,0 +1,16 @@
+{
+  "name": "episode-3-koajs-quickstart-guide",
+  "version": "1.0.0",
+  "description": "Koajs QuickStart Guide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony server.js",
+    "postinstall": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^0.15.0",
+    "koa-router": "^3.8.0"
+  }
+}
